@@ -1,3 +1,3 @@
 # ZIC
 my web repo
-# This is a portfolio website 
+# This is a profile website 
