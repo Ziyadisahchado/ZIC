@@ -139,7 +139,6 @@ h2.title .sub-title {font-size: 16px;}
 
 /*Counter*/
 .counter {margin: 15px 0 !important;}
-
 /*Portfolio*/
 .grid.columns-2 .grid-item, .masonry.columns-2 .masonry-brick {width: 100%;}
 .grid.columns-4 .grid-item, .masonry.columns-4 .masonry-brick {width: 50%;}
@@ -186,7 +185,7 @@ h3 {font-size: 20px; line-height: 28px;}
 .bnr-list li:before{display: none;}
 .banner img{display: none !important;}
 .align-end{bottom: 45%; transform: translateY(50%); -webkit-transform: translateY(50%); -o-transform: translateY(50%); -ms-transform: translateY(50%); -moz-transform: translateY(50%);}
-
+.fullscreen-banner{background-attachment: fixed; background-repeat: no-repeat; background-size: 50% 50%;"}
 /*Button*/
 .btn {padding: 10px 20px; font-size: 13px;}
 .btn + .btn {margin-left: 5px;}
@@ -209,4 +208,5 @@ blockquote {line-height: 25px; margin-left: 10px; padding: 20px;}
 .reply {margin-top: 20px; position: inherit; right: inherit; top: inherit;}
 
 .owl-carousel.owl-theme .owl-dots .owl-dot span{margin: 0 4px}
+
 }

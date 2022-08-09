@@ -63,7 +63,7 @@ section{padding: 80px 0;}
 /* ------------------------
     Text color
 ------------------------*/
-.text-theme{color:#52656b;}
+.text-theme{color:#17202a;}
 .text-white{color:#ffffff;}
 .text-black{color: #17202a;}
 .text-grey{color:#666;}
@@ -201,7 +201,7 @@ canvas {height: auto !important; position: absolute; width: 100% !important; lef
 .theme-bg .about-desc ul li a:hover{color:  #17202a;}
 .theme-bg .about-desc ul li i{color: #ffffff;}
 
-.education-box-item{border-bottom: 1px solid rgba(255,255,255,0.1); padding: 30px 0;}
+.education-box-item{border-bottom: 1px solid rgba(225, 220, 220, 0.1); padding: 30px 0;}
 .education-box-item:last-child{border-bottom: none; padding-bottom: 0;}
 .education-box-item p{margin-bottom: 0;}
 
@@ -274,7 +274,7 @@ canvas {height: auto !important; position: absolute; width: 100% !important; lef
 .portfolio-item a.popup{z-index: 9; width: 40px; height: 40px; text-align: center; line-height: 40px; background: #515d63; display: inline-block; margin: 0 5px; color: #ffffff; font-size: 20px;}
 .portfolio-item a.popup:hover{background: #ffffff; color:  #17202a;}
 .portfolio-item .portfolio-hover {backface-visibility: hidden; padding: 30px; height: 100%; left: 0; position: absolute; top: 0; width: 100%;}
-.portfolio-item .portfolio-hover::before {position: absolute; top: 0; left: 0; width: 100%; height: 100%; content: ''; opacity: 0; -webkit-transform: translate3d(0,50%,0); transform: translate3d(0,50%,0); background: #1b111b}
+.portfolio-item .portfolio-hover::before {position: absolute; top: 0; left: 0; width: 100%; height: 100%; content: ''; opacity: 0; -webkit-transform: translate3d(0,50%,0); transform: translate3d(0,50%,0); background: #17202a}
 .portfolio-item .portfolio-icon {position: absolute; top: 50%; left: 0; width: 100%; -webkit-transition: -webkit-transform 0.35s, color 0.35s;
 transition: transform 0.35s, color 0.35s; -webkit-transform: translate3d(0,-50%,0); transform: translate3d(0,-50%,0); opacity: 0;}
 .portfolio-item .portfolio-hover::before,
@@ -380,7 +380,7 @@ blockquote {background: #f6f6f6; padding: 30px; font-style: italic; line-height:
 iframe{width: 100%; height: 400px; border: none;}
 .form-group{margin-bottom: 20px; position: relative;}
 label{font-size: 14px; color:  #17202a}
-.dark-bg label{color: #ff3342}
+.dark-bg label{color: #17202a}
 .form-control{height: 60px; line-height: 60px; padding: 0 20px; border-radius: 30px; font-size: 12px; background: #fdfdfd; border: none; border-bottom: 1px solid #342; box-shadow: none;}
 textarea.form-control{height: 150px; border-radius: 5px;}
 .form-control:focus{box-shadow: none; border-color: #ff3342;}
